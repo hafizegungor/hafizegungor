@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hafizegungor
-- 👀 I’m interested in Mobile Development especially in Android.
+- 👀 I’m interested in Software Development especially latest mobile technologies in Android.
 - 🌱 I’m currently learning Flutter-Dart and cross platform applications.
 - 💞️ I’m looking to collaborate on developing mobile applications and games.
 - 📫 How to reach me ? Please contact with e-mail.
